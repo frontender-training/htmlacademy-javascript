@@ -5,7 +5,11 @@
 
 [**Обучение на интенсиве «Базовый JavaScript» в HTML Academy**](https://www.youtube.com/watch?v=MXYMVBFyMJo) - Видео
 
-[**Критерии**](Canon.md) сдачи выпускного проекта на интенсиве
+[**Критерии сдачи выпускного проекта на интенсиве**](Canon.md)
+
+[Учебный проект «Код и Магия»](/frontender-training/code-and-magick-baseJS) | [Личный проект «Кексобукинг»](/frontender-training/kekstagram-baseJS) | [Личный проект «Кекстаграм»](/frontender-training/kekstagram-baseJS)
+
+[Дополнительные материалы](/frontender-training/htmlacademy-javascript/wiki) к лекциям
 
 ## Разделы (по лекциям)
 
